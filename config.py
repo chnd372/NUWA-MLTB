@@ -33,7 +33,7 @@ FILES_LINKS = False
 GDRIVE_ID = "184P-lGzou92NH9cmuUGOoDM6Tn99myAf"
 IS_TEAM_DRIVE = False
 STOP_DUPLICATE = true
-INDEX_URL = ""
+INDEX_URL = "https://upload.weizman.workers.dev/0:"
 # Rclone
 RCLONE_PATH = ""
 RCLONE_FLAGS = ""

@@ -1,18 +1,18 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
+BOT_TOKEN = "847745355"
+OWNER_ID = 847745355
+TELEGRAM_API = 6671644
+TELEGRAM_HASH = "b3c2aeac6c992619df80ebb2663efd64"
 # OPTIONAL CONFIG
 TG_PROXY = {}
 USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
 AUTHORIZED_CHATS = ""
 SUDO_USERS = ""
-DATABASE_URL = ""
+DATABASE_URL = "mongodb+srv://Lukaiku:Amazon123@cluster0.hwpdys3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 DATABASE_NAME = "mltb"
 STATUS_LIMIT = 4
-DEFAULT_UPLOAD = "rc"
+DEFAULT_UPLOAD = "gd"
 STATUS_UPDATE_INTERVAL = 15
 FILELION_API = ""
 STREAMWISH_API = ""
@@ -30,9 +30,9 @@ FFMPEG_CMDS = {"merge": ["-f concat -safe 0 -i mltb.txt -c copy mltb.mp4 -del"]}
 UPLOAD_PATHS = {}
 FILES_LINKS = False
 # GDrive Tools
-GDRIVE_ID = ""
+GDRIVE_ID = "184P-lGzou92NH9cmuUGOoDM6Tn99myAf"
 IS_TEAM_DRIVE = False
-STOP_DUPLICATE = False
+STOP_DUPLICATE = true
 INDEX_URL = ""
 # Rclone
 RCLONE_PATH = ""
